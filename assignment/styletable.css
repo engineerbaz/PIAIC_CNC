@@ -1,0 +1,81 @@
+
+/* universal selctor */
+*{
+    color: black important;
+		
+    margin-top: 20px;
+}
+body {
+	 background: rgb(238, 250, 255);
+ 
+}
+a:hover{
+        color: aliceblue;
+            
+    }
+/* a { background-color: #fcdb18 */
+
+   
+h1{
+    margin-top: -20px;
+    font-family: 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+	font-size: 52px;
+    text-shadow: 2px 2px 8px rgb(67, 67, 230)
+}
+table{
+    width: 100%;
+    border-width: 20px;
+}
+table , td {
+    border-collapse: collapse;
+    border: 1px solid rgb(91, 91, 100);
+}
+td{
+    
+    width: 90px;
+    height: 50px;
+    padding: 5px 5px 5px 5px;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center; 
+    font-weight:bold;
+    color: black;
+     
+}
+.wi{
+  margin-left:10%;
+  width:80%;
+}
+.w, .w>sup{
+    background-color:whitesmoke;
+}
+.y, .y>sup{
+    background-color:#f5e58b;
+}
+.v, .v>sup{
+    background-color: #7c67f0;  
+}
+.dy, .dy>sup{
+    background-color:#e4aa19;
+}
+.g, .g>sup{
+    background-color: #1ed86c;
+}
+.br, .br>sup{ 
+    background-color: #bb5522;
+}
+.dp, .dp>sup{
+    background-color: #d464c9;
+}
+.od, .od>sup{
+    background-color: orangered;
+    }
+.pl, .pl>sup{
+    background-color: pink;
+}
+.pp, .pp>sup{
+    background-color: #eb8d89;
+}
+.bl, .bl>sup{
+    background-color: #769cf5;
+}
