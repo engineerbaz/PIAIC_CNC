@@ -1,0 +1,75 @@
+
+
+<html>
+<body>
+ 
+
+<center>
+<h1>BAZ CV</h1>
+ Address: House # 123 Area ABC Karachi <br /> Email:  <a href="mailto:baz@abc.com"> baz@abc.com</a> <br> 
+Tell:<a href="tel=00923131234567"> 03131234567</a>
+</center>
+<center>
+<p><dfn>HTML</dfn> is the standard markup language for creating web pages.</p>
+</center>
+<img src="abc.gif" alt="My Pic"/>
+
+
+
+<h2>Experience</h2>
+<hr />
+<ul>
+<li>XYZ Company</li>
+</ul>
+<dl>
+<dt><em>DevOps Specialist </em> ------- 2016 Onwards</dt>
+<dd>Working as Kubernetese &amp; Cloud Security tasks</dd>
+</dl>
+<ul>
+<li>PQR Company</li>
+</ul>
+<dl>
+<dt><em>DevOps Engineer </em> ------- 2014 ~ 2016</dt>
+<dd>Working as Docker &amp; Linux tasks</dd>
+</dl>
+<h2>Education</h2>
+<hr />
+<p><u>Cloud Certification </u></p>
+<ul>
+<li><acronym title="Certified Kubernetes Application Devloper">CKAD </acronym> by <em> CNCF </em> &amp; <em>Linux Foundation </em> on <em> 22<sup>nd</sup> Sept, 2019 </em></li>
+<li><acronym title="Certified Kubernetes Application ">CKA </acronym> by <em> CNCF </em> &amp; <em>Linux Foundation </em> on <em> 13<sup>th</sup> June, 2019 </em></li>
+</ul>
+<p><u>Network Certification </u></p>
+<ul>
+<li><acronym title="Cisco Certified Network Professional ">CCNP </acronym> by <em> Cisco Education </em> on <em> 14<sup>th</sup> March, 2018 </em></li>
+<li><acronym title="Cisco Certified Network Associate ">CCNA </acronym> by <em> Cisco Education </em> on <em> 31<sup>st</sup> July, 2017 </em></li>
+</ul>
+<h2>Skill Sets</h2>
+<hr />
+<ul>
+<li><strong>IP Networking</strong>
+<ol>
+<li>Routing Protocols BGP, IS-IS, OSPF</li>
+<li>Switching Protocols</li>
+<li>IPv4/IPv6</li>
+<li>WAN Solutions</li>
+</ol>
+</li>
+<li><strong>DevOp Tool</strong>
+<ol>
+<li>Kubernetes</li>
+<li>Docker</li>
+<li>Git</li>
+</ol>
+</li>
+<li><strong>Programming</strong>
+<ol>
+<li>HTML5</li>
+<li>C/C++</li>
+</ol>
+</li>
+</ul>
+
+
+</body>
+</html>
