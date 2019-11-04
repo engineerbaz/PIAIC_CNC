@@ -4,12 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>CSS Assignment 3 - Class </title>
     <style>
     .main-box { 
-    border: 3px dashed black;
+    border: 2px dashed white;
     border-radius: 22px;
-    padding: 22px;
+    padding: 2px;
      width: 999px;
      
     }
@@ -18,7 +18,9 @@
         border: 2px solid grey;
     border-radius: 1px;
     vertical-align: top;
+    padding : 3px;
     width: 280px;
+    height: 455px;
     display: inline-block;
     -moz-box-shadow: 0 0 10px #777777;
     -webkit-box-shadow: 0 0 10px Red ;
@@ -34,7 +36,7 @@
     -webkit-box-shadow: 0 0 10px Red ;
     box-shadow: 0 0 10px #777777;
     }
-    .button1 {
+    .button11 {
     background-color: white;
   color: black;
   border: 2px solid #4CAF50; /* Green */
@@ -42,14 +44,15 @@
 
     .button {
         background-color: greenyellow; 
-         box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+         box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.1);
         width: 200px;
     }
 
     .button3 {
-  background-color: #4CAF50; /* Green */
+  background-color:#d6ba32;
   border: none;
-  color: white;
+  color: whitesmoke;
+  box-shadow: 0 8px 16px 0 #d6ba32, 0 6px 20px 0 rgba(0,0,0,0.1);
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
@@ -57,8 +60,31 @@
   font-size: 16px;
 }
 
-    div{
-        
+.button2 {
+  background-color: #264de4;
+  border: none;
+  color: whitesmoke;
+  box-shadow: 0 8px 16px 0 #264de0, 0 6px 20px 0 rgba(0,0,0,0.1);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.button1 {
+  background-color: #e54c21;  
+  border: none;
+  color: whitesmoke; 
+  box-shadow: 0 8px 16px 0  #e54c21, 0 6px 20px 0 rgba(0,0,0,0.19);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+    h1{
+      font-size: 34px;  
+      font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
        
     }
     h2 {
@@ -67,40 +93,44 @@
     </style>
 </head>
 <body>
-    <h1>Assignment 3 - Class CSS </h1>
+        <center>    
+    <h1>Assignment 3 - Class CSS </h1> </center>
 <center>
     <div class=main-box>
     <div class="box">
-        <img src="image.png"> <br>
+        <img src="html.png" height="200" width="220"> <br>
         <div class=textbox>
-        <h2> Scene 1 </h2>
-        This is simple text for box of text
-        This is simple text for box for data entry of all fields of data
-        <br><br>
-
-        <center><input class=button type="submit" value=" Read More "></center>
+        <h2> HTML </h2>
+        <em>HTML</em> Hypertext Markup Language is the standard markup language 
+        for documents designed to be displayed in a web browser.
+        <br><br> <br><br> <br>
+        <center><input class=button1 type="submit" value=" Click to Learn "></center>
         </div>
     </div>
 
 
     <div class="box">
-            <img src="image2.png"> <br>
-            <h2> Scene 2 </h2>
-            This is simple text for box for data entry of all fields of data
-            le text for box for data entry of all fields of data
-            <br>
-            <center><input class=button1 type="submit" value=" Read More "></center>
+            <img src="css.png" height="200" width="210"> <br>
+            <div class=textbox>
+            <h2> CSS </h2>
+            Cascading Style Sheets <em>CSS </em>  is a style sheet language 
+            used for describing the presentation of a document written in a markup language like HTML.
+            <br> <br><br> <br>
+            <center><input class=button2 type="submit" value=" Click to Learn "></center>
+        </div>
     </div>
     
     <div class="box">
-            <img src="image.png"> <br>
-        
-            <h2> Scene 3 </h2>
-            This is simple text for box for data entry of all fields of data
-            le text for box for data entry of all fields of data
-            <br>
+            <img src="javascript.png" height="200" width="240"> <br>
+            <div class=textbox>
+            <h2> JavaScript </h2>
+            JavaScript as <em> JS </em>, is a high-level, interpreted scripting language that
+            conforms to the ECMAScript specification. JS has 
+            curly-bracket, dynamic typing, prototype-based object-orientation, & first-class functions.
+            <br><br>
 
-            <center><input class=button3 type="submit" value=" Read More "></center>
+            <center><input class=button3 type="submit" value=" Click to Learn "></center>
+        </div>
     </div>
 </div>
 </center>
