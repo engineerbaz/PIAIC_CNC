@@ -67,4 +67,26 @@ var newNum = 7 + orignalNum;
 window.alert(newNum);
 
 ```
+Now Mathematical operations
+
+```java
+        // chap 07
+var a = 5, b = 3;
+  // alert(a + b * a);
+alert(a - b * b + 5);
+
+var f = (a + b ) * 3; 
+  // alert(f);    
+var g = (a + b) * ( a - 3 );
+alert (g);
+
+```
+Concatination of String
+
+```java
+// chap 08
+var name = "Mark";
+var message = "Thanks "
+alert(message, name);
+```
 
