@@ -10,12 +10,9 @@ Key notes for assigning variable names
 - should be unique.
 - Should be started with character, not numeric.
 - Can use Dollar($), underscore(_) but Space cant be used.
+- its case sensitive.
 - common _keywords_ can not be used like 
-  - input
-  - let
-  - print
-  - etc
-- its case sensitive, 
+  - input, let, print, etc
 - best practice is use small letter or Camel Case convention `myName`
 
 Variables are defined as:
