@@ -90,3 +90,22 @@ var message = "Thanks "
 alert(message, name);
 ```
 
+*Prompt* asks user for some information and provides a response. 
+Response is String always,
+
+```java
+var spec = prompt("Your Species?", "Human");
+
+```
+
+
+```java
+// Chap 06
+var pre = 20, post = 20;
+var post = post++;
+var pre = ++pre;
+
+alert(post);
+alert(pre);
+```   
+
