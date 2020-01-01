@@ -1,7 +1,3 @@
-<h2> Assignment # 03 </h2>
-<h4> Declare and Initialize an array and store available education
-qualifications in Pakistan (e.g. SSC, HSC, BCS, BS, BCOM, MS, M.
-Phil., PhD). Show the listed qualifications in your browser like: </h4>
 
 <script>
 var edu = ["SSC", "HSC", "BCS", "BS", "BCOM", "MS", "M-Phil", "PhD"];
