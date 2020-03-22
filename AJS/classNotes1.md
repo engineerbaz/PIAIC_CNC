@@ -4,6 +4,7 @@ Starting with Chapter 43
 
 ```JS
 var fname = "bashir"
+// ${} is for calling variable in between
 var name = `Name is ${fname} Ahmed 
 my father name is Munir`
 // alert (name);
