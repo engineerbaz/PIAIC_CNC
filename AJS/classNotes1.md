@@ -1,9 +1,8 @@
 # Class 1 - Adv JS - Q3 - PIAIC
-Starting with P
+Starting with Chapter 43
 
 
 ```JS
-// This Code for 43 - Placing scripts
 var fname = "bashir"
 var name = `Name is ${fname} Ahmed 
 my father name is Munir`
@@ -40,4 +39,27 @@ add();
 document.write(company);
 document.write(company1); 
 ```
+
+```JS
+for (i=0; i<10; i++)
+	{
+    
+    }
+    document.write(i);
+```
+
+
+```JS
+ const d = 'snap';
+ function lop(d){ 
+ console.log(d);}
+ function go() {
+ 	const d = 'lop';
+    lop();
+}
+go();
+```
+
+
+
 
