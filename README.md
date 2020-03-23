@@ -1,2 +1,7 @@
-# PIAIC_CNC_Q2
-Data for PIAIC's Cloud Native Computing Course of Quarter 2
+# PIAIC_CNC
+Data for PIAIC's Cloud Native Computing Course of Quarter 2 & 3
+
+- HTML5
+- CSS3 
+- JavaScript
+- Adv JS
