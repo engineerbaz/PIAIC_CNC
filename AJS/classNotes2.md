@@ -6,7 +6,6 @@ Extensively used in differnet platforms, speciallys in Web browsers
 
 
 
-
 https://github.com/Ameen-Alam/PIAIC-Advance-JS-Assignments
 
 
@@ -20,4 +19,9 @@ Adherent of academic & industry.`
 
 document.write(coverLetter) 
 
+```
+Short Cut for VS Code
+```
+h2.head1{My name}*20
+// h2 is element, head1 is class ( # is id) , data in {}, *20 is number of times.
 ```
